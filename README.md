@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I'm Riya ✨<br><br>💻 Computer Science student  <br>🚀 Interested in Full Stack Development & AI/ML  <br>🧠 Passionate about building scalable software and learning new technologies  <br>📚 Currently exploring system design and advanced backend development<br>## Tech Stack<br><br>C • C++ • Java • Python • JavaScript • SQL  <br>HTML5 • CSS3 • React.js  <br>Node.js • Express.js  <br>MongoDB • MySQL  <br>Git • GitHub<br>✨ Always learning. Always building.
+## Hi, I'm Riya ✨
+<br><br>💻 Computer Science student  <br>🚀 Interested in Full Stack Development & AI/ML  <br>🧠 Passionate about building scalable software and learning new technologies  <br>📚 Currently exploring system design and advanced backend development<br>## Tech Stack<br><br>C • C++ • Java • Python • JavaScript • SQL  <br>HTML5 • CSS3 • React.js  <br>Node.js • Express.js  <br>MongoDB • MySQL  <br>Git • GitHub<br>✨ Always learning. Always building.
 
 
 # 💻 Tech Stack:
