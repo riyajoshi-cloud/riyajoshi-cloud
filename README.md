@@ -1,4 +1,5 @@
-# Heyy, I'm Riya ✨ <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/79ef4d33-256f-40ce-8894-993d9889daed" />
+ <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/45ef6559-060b-410a-bed7-7a8cc1756ab2" /> # Heyy, I'm Riya ✨
+
 
 👩‍💻 CSE student | Full Stack & AI enthusiast  <br>⚡ Building, learning, and improving every day  <br>🌟 Exploring backend systems and intelligent applications<br>👩‍💻 Code • Learn • Build • Improve
 
