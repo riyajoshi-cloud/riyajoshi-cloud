@@ -1,4 +1,4 @@
- ## Heyy, I'm Riya ✨ 
+ ## Heyy, I'm Riya ✨
 
 
 👩‍💻 CSE student | Full Stack & AI enthusiast  <br>⚡ Building, learning, and improving every day  <br>🌟 Exploring backend systems and intelligent applications<br>👩‍💻 Code • Learn • Build • Improve
